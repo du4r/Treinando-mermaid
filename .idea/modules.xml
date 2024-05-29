@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/treinando-mermaid-com-java.iml" filepath="$PROJECT_DIR$/.idea/treinando-mermaid-com-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Iphone.iml" filepath="$PROJECT_DIR$/Iphone.iml" />
     </modules>
   </component>
 </project>
